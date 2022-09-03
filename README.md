@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhongDuck
 - 👀 I’m interested in code game !
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python
 - 📫 How to reach me : fb : Phong Phế Phẩm,Gmail : Thanhphongcpag@gmail.com
 ---> i'm phong <----
